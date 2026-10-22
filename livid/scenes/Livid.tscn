@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://dison7jplkdau"]
+
+[node name="CharacterBody2D" type="CharacterBody2D" unique_id=1550195769]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1996950263]
